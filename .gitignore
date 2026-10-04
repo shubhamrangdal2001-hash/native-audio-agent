@@ -1,0 +1,16 @@
+# Environment & secrets
+.env
+*.env
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Memory / local session dumps
+memory.json
